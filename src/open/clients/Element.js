@@ -18,6 +18,7 @@ import {Maturity, Platform, LinkKind,
 	FDroidLink, AppleStoreLink, PlayStoreLink, WebsiteLink} from "../types.js";
 
 const trustedWebInstances = [
+    "element.boba.best",
     "app.element.io",   // first one is the default one
     "develop.element.io",
     "chat.fosdem.org",
