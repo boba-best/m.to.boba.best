@@ -21,6 +21,7 @@ const trustedWebInstances = [
     "element.boba.best",
     "app.element.io",   // first one is the default one
     "develop.element.io",
+    "chat.fedoraproject.org",
     "chat.fosdem.org",
     "chat.mozilla.org",
     "webchat.kde.org",
